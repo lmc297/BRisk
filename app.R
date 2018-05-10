@@ -136,6 +136,10 @@ server <- function(input, output) {
        mumax<-0.3
        log10nmax<-7
      }#clade4
+     ######## only adding this for demo version
+     else{
+        mumax<-0.1
+        log10nmax<-3}
      return(list(mumax,log10nmax))
    }#end get.growth
    
