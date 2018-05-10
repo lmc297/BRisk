@@ -12,7 +12,7 @@ library(ggplot2)
 ui <- fluidPage(
    
    # Application title
-   titlePanel(HTML("<i>BRisk")),
+   titlePanel(HTML("BRisk")),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
