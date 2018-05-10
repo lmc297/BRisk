@@ -46,11 +46,13 @@ You're ready to go!
 # Uploading Files
 
 1. Upload a BTyper final results file to BRisk by clicking the "Browse" button under "Choose a BTyper final results file to analyze" in the left panel (final results files are text files with the extension "_final_results.txt"). 
+
 Note: several sample BTyper final results files are provided in BRisk's sample_data directory: anthrax_final_results.txt, diarrheal_final_results.txt, emetic_final_results.txt, and manliponensis_final_results.txt. Feel free to use any of those, or upload your own BTyper final results file!
 
 2. Select a food matrix in the drop-down menu titled "Select a food matrix"
 
 3. Uplaod a bacterial count data file (a text file that has *B. cereus* group isolate counts in log(CFU/g) or log(CFU/mL), with one count per line).
+
 Note: several sample bacterial count data files are provided in BRisk's sample_data directory: counts1.txt, counts2.txt, counts3.txt, and counts4.txt. Feel free to use any of those, or upload your own count data files!
 
 ------------------------------------------------------------------------
