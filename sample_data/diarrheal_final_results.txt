@@ -1,4 +1,4 @@
-BTyper Results for HUMN_10_26_16_FECAL_NA_R9_6413
+BTyper Results for FSL_R9_6413
 
 Predicted Virulence Genes:
 
