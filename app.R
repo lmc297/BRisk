@@ -12,7 +12,7 @@ library(ggplot2)
 ui <- fluidPage(
    
    # Application title
-   titlePanel(HTML("<i>Bacillus</i> Exposure/Evaluation of Risk")),
+   titlePanel(HTML("<i>BRisk")),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
