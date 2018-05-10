@@ -1,0 +1,199 @@
+BTyper Results for FOOD_10_19_16_RSNT1_1B_R9_6388
+
+Predicted Virulence Genes:
+
+Hit #	Virulence Gene Name	E-Value Percent (%) Identity	Percent (%) Coverage
+1	cesD|gi|190015506|ref|YP_001967167.1| putative permease, CesD [plasmid] [Bacillus cereus]	1.09745e-123	100.0	100.0
+2	bpsF|NC13_RS0532|BCE_G9241_pBC218_0065|Bacillus cereus exo-polysaccharide operon gene F tyrosine protein kinase [plasmid pBC218] [Bacillus cereus str. G9241]	2.99462e-65	50.0	97.6076555024
+3	entFM|gi|30020092|ref|NP_831723.1| enterotoxin [Bacillus cereus ATCC 14579]	0.0	95.1162790698	100.0
+4	cerB|gi|505581118|gb|AGL98063.1| cereolysin B [Bacillus cereus]	0.0	87.1382636656	93.3933933934
+5	clo|gi|62550724|gb|AAX88798.1| cereolysin O [Bacillus cereus]	0.0	95.0884086444	100.0
+6	plcA|gi|30021854|ref|NP_833485.1| 1-phosphatidylinositol phosphodiesterase precursor [Bacillus cereus ATCC 14579]	0.0	94.2249240122	100.0
+7	entA|gi|30023271|ref|NP_834902.1| enterotoxin / cell-wall binding protein [Bacillus cereus ATCC 14579]	2.30693e-167	93.5810810811	100.0
+8	inhA2|gi|30018848|ref|NP_830479.1| immune inhibitor A precursor [Bacillus cereus ATCC 14579]	0.0	96.7459324155	100.0
+9	nheC|gi|30019953|ref|NP_831584.1| enterotoxin C [Bacillus cereus ATCC 14579]	0.0	95.5431754875	100.0
+10	cerA|gi|505581110|gb|AGL98059.1| cereolysin A [Bacillus cereus]	1.46149e-176	95.0530035336	100.0
+11	bpsH|NC13_RS05330|BCE_G9241_pBC218_0067|Bacillus cereus exo-polysaccharide operon gene H LytR family transcriptional regulator [plasmid pBC218] [Bacillus cereus str. G9241]	4.82287e-115	66.4473684211	100.0
+12	cesC|gi|190015504|ref|YP_001967168.1| ABC transporter ATP-binding protein, CesC [plasmid] [Bacillus cereus]	0.0	99.6644295302	100.0
+13	inhA1|gi|30019435|ref|NP_831066.1| immune inhibitor A precursor [Bacillus cereus ATCC 14579]	0.0	93.654822335	100.0
+14	nheA|gi|30019951|ref|NP_831582.1| non-hemolytic enterotoxin lytic component L2 [Bacillus cereus ATCC 14579]	0.0	97.1502590674	100.0
+15	nheB|gi|30019952|ref|NP_831583.1| non-hemolytic enterotoxin lytic component L1 [Bacillus cereus ATCC 14579]	0.0	99.7512437811	100.0
+16	bpsE|NC13_RS05315|BCE_G9241_pBC218_0064|Bacillus cereus exo-polysaccharide operon gene E UTP--glucose-1-phosphate uridylyltransferase [plasmid pBC218] [Bacillus cereus str. G9241]	1.06673e-158	89.8916967509	93.8983050847
+17	plcB|gi|30018852|ref|NP_830483.1| phospholipase C [Bacillus cereus ATCC 14579]	1.46149e-176	95.0530035336	100.0
+18	cesA|gi|190015727|ref|YP_001967170.1| cereulide synthetase A, CesA [plasmid] [Bacillus cereus]	0.0	100.0	100.0
+19	plcR|gi|358355901|dbj|BAL21073.1| PlcR [Bacillus cereus NC7401]	0.0	100.0	100.0
+20	cesB|gi|190015609|ref|YP_001967169.1| cereulide synthetase B, CesB [plasmid] [Bacillus cereus]	0.0	100.0	100.0
+
+Predicted AMR Genes:
+
+Hit #	AMR Gene Name	E-Value Percent (%) Identity	Percent (%) Coverage
+1	(Gly)VanR-M|FJ349556|982-1680|699	1.52601e-111	77.032810271	100.286123033
+2	(Bla)BLA-1|AY453161|501-1430|930	0.0	96.0	99.4623655914
+
+
+Predicted panC Clade Designation:
+
+panC Clade Name	Closest Strain	Percent (%) Identity	Percent (%) Coverage
+clade3	B_cereus_AH187	100.0	100.0
+
+Predicted MLST Profile:
+
+ST	glp	gmk	ilv	pta	pur	pyc	tpi
+26	3	2	31	5	16	3	4
+
+Predicted rpoB Allelic Type:
+
+Predicted rpoB Allelic Type	Percent (%) Identity	Percent (%) Coverage
+rpoB|AT0125|H80471|Bacillus|cereus|sl	100.0	100.0
+
+Predicted 16s Type
+
+Predicted 16s Type	Percent (%) Identity	Percent (%) Coverage
+16s_CP006863_1_Bacillus_toyonensis_BCT_7112*	100.0	40.5283505155*
+*No 16s gene in the current database matches with >97% identity and/or 100% coverage. Your isolate may not be a member of the Bacillus cereus group.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

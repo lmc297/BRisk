@@ -1,0 +1,138 @@
+BTyper Results for Bacillus_manliponensis_GCA_000712595_1_ASM71259v1_genomic
+
+Predicted Virulence Genes:
+
+Hit #	Virulence Gene Name	E-Value Percent (%) Identity	Percent (%) Coverage
+1	bceT|gi|1665720|dbj|BAA04134.1| diarrheal toxin [Bacillus cereus]	0.0	85.0704225352	96.9945355191
+2	entA|gi|30023271|ref|NP_834902.1| enterotoxin / cell-wall binding protein [Bacillus cereus ATCC 14579]	5.95631e-131	71.2328767123	98.6486486486
+3	bpsE|NC13_RS05315|BCE_G9241_pBC218_0064|Bacillus cereus exo-polysaccharide operon gene E UTP--glucose-1-phosphate uridylyltransferase [plasmid pBC218] [Bacillus cereus str. G9241]	1.53389e-142	80.3571428571	94.9152542373
+4	inhA2|gi|30018848|ref|NP_830479.1| immune inhibitor A precursor [Bacillus cereus ATCC 14579]	0.0	63.625	100.125156446
+5	nheC|gi|30019953|ref|NP_831584.1| enterotoxin C [Bacillus cereus ATCC 14579]	1.36637e-125	51.9444444444	100.278551532
+6	cerA|gi|505581110|gb|AGL98059.1| cereolysin A [Bacillus cereus]	8.24338e-134	71.875	101.766784452
+7	inhA1|gi|30019435|ref|NP_831066.1| immune inhibitor A precursor [Bacillus cereus ATCC 14579]	0.0	70.9759188847	100.126903553
+8	nheA|gi|30019951|ref|NP_831582.1| non-hemolytic enterotoxin lytic component L2 [Bacillus cereus ATCC 14579]	2.26711e-173	66.7532467532	99.7409326425
+9	nheB|gi|30019952|ref|NP_831583.1| non-hemolytic enterotoxin lytic component L1 [Bacillus cereus ATCC 14579]	0.0	82.7930174564	99.7512437811
+10	cerB|gi|505581118|gb|AGL98063.1| cereolysin B [Bacillus cereus]	1.31458e-135	66.7741935484	93.0930930931
+11	plcB|gi|30018852|ref|NP_830483.1| phospholipase C [Bacillus cereus ATCC 14579]	8.24338e-134	71.875	101.766784452
+12	bpsH|NC13_RS05330|BCE_G9241_pBC218_0067|Bacillus cereus exo-polysaccharide operon gene H LytR family transcriptional regulator [plasmid pBC218] [Bacillus cereus str. G9241]	3.93134e-115	62.582781457	99.3421052632
+
+Predicted AMR Genes:
+
+Hit #	AMR Gene Name	E-Value Percent (%) Identity	Percent (%) Coverage
+1	(MLS)MPH|CARD|phgb|ACMJ01000036|72074-72986|ARO:3003072|Bacillus|MLS|Macrolide_phosphotransferases|MPH	0.0	87.1710526316	99.8904709748
+
+
+Predicted panC Clade Designation:
+
+panC Clade Name	Closest Strain	Percent (%) Identity	Percent (%) Coverage
+?*	?	78.1065088757	99.5288574794
+*A panC clade could not be determined for your isolate.
+
+Predicted MLST Profile:
+
+ST	glp	gmk	ilv	pta	pur	pyc	tpi
+?*	205	123	?	213	199	30*	165
+*No allele in the current database matches with 100% identity and coverage.
+
+Predicted rpoB Allelic Type:
+
+Predicted rpoB Allelic Type	Percent (%) Identity	Percent (%) Coverage
+rpoB|AT0128|H80481|Bacillus|cereus|sl*	91.73290938*	99.5253164557*
+*No rpoB allele in the current database matches with 100% identity and coverage.
+
+Predicted 16s Type
+
+Predicted 16s Type	Percent (%) Identity	Percent (%) Coverage
+16s_NZ_CM000745_1_Bacillus_pseudomycoides_DSM_12442*	98.6571879937	81.5721649485*
+*No 16s gene in the current database matches with >97% identity and/or 100% coverage. Your isolate may not be a member of the Bacillus cereus group.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
