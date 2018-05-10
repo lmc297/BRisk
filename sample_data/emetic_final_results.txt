@@ -1,4 +1,4 @@
-BTyper Results for FOOD_10_19_16_RSNT1_1B_R9_6388
+BTyper Results for FSL_R9_6388
 
 Predicted Virulence Genes:
 
