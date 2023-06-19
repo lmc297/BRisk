@@ -93,7 +93,7 @@ server <- function(input, output) {
      if (input$foodmatrix==0){
        return(NULL)}
      else{
-       mtable<-read.table(infile$datapath,header=FALSE,sep = "\t")
+       mtable<-read.delim(file = infile$datapath, header=FALSE, sep = "\t", stringsAsFactors=FALSE, check.names=FALSE)
        validate(need(ncol(mtable)==1,"Your count data file needs to have exactly 1 column with B. cereus group counts in log(CFU/g) or log(CFU/mL)."))
        # fit lognormal dist'n per USDA-FSIS 2003 Listeria in deli meats, page 49: https://www.fsis.usda.gov/OPPDE/rdad/FRPubs/97-013F/ListeriaReport.pdf
        if(length(mtable$V1)>1){
